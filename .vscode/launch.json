@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "fresh_fruits",
+            "cwd": "fresh_fruits",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fresh_fruits (profile mode)",
+            "cwd": "fresh_fruits",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fresh_fruits (release mode)",
+            "cwd": "fresh_fruits",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
